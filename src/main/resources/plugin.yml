@@ -1,0 +1,5 @@
+name: ${project.name}
+main: com.github.siloneco.nodrop.NoDropOnPlayerKill
+version: ${project.version}
+author: siloneco
+description: ${project.description}
